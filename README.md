@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Blair Khan 👋
 
-<!--
-**khanblair/khanblair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building innovative solutions with code — I create scalable apps and systems across web and mobile.
 
-Here are some ideas to get you started:
+- 🌍 Kampala, Uganda
+- 🏫 Mountains of the Moon University
+- 🔗 Portfolio: https://khanblair.github.io/portfolio/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khanblair)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=khanblair" alt="GitHub Streak" /></a>
