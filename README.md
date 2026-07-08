@@ -11,3 +11,8 @@ Building innovative solutions with code — I create scalable apps and systems a
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khanblair)](https://git.io/streak-stats)
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=khanblair" alt="GitHub Streak" /></a>
+
+## ⏱️ WakaTime Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
