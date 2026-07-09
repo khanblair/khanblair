@@ -5,12 +5,15 @@ on:
     - cron: '0 0 * * *' # runs daily at midnight UTC
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     name: Update README with WakaTime activity
     runs-on: ubuntu-latest
     steps:
-      - uses: matchai/waka-readme@v3
+      - uses: athul/waka-readme@v0.3.1
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
