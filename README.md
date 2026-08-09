@@ -136,31 +136,31 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 🗂️ **My Coding Categories (Last 7 Days)** 
 
 ```text
-AI Coding                45 hrs 41 mins       ████████████████░░░░░░░░░   64.82 % 
-Browsing                 16 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-Coding                   4 hrs 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Code Reviewing           3 hrs 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Writing Docs             2 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+AI Coding                46 hrs 48 mins       █████████████████░░░░░░░░   67.99 % 
+Browsing                 13 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
+Code Reviewing           4 hrs 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+Coding                   3 hrs 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Writing Docs             3 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 Writing Tests            0 secs               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 📚 **Libraries & Dependencies (Last 7 Days)** 
 
 ```text
-react                    10 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-api                      6 hrs 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
-server                   5 hrs 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-lucide-react             5 hrs 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-button                   4 hrs 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-values                   4 hrs 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-apps                     3 hrs 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-django                   3 hrs 35 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+react                    10 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+api                      7 hrs 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+lucide-react             5 hrs 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+server                   5 hrs 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+button                   5 hrs 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+values                   4 hrs 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+apps                     3 hrs 41 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+django                   3 hrs 35 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 ```
 
 💻 **Machines (Last 7 Days)** 
 
 ```text
-Kolaborates-MacBook-Air. 70 hrs 28 mins       █████████████████████████   100.00 % 
+Kolaborates-MacBook-Air. 68 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 <!--END_SECTION:waka-extra-->
