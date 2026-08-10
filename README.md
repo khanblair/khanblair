@@ -10,6 +10,31 @@ Building innovative solutions with code — I create scalable apps and systems a
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=khanblair)](https://git.io/streak-stats)
 
+## 🌌 Galaxy Profile
+
+<div align="center">
+  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Featured Projects"/>
+</div>
+
+<sub>Auto-generated every 12h by <a href="https://github.com/vinimlo/galaxy-profile">galaxy-profile</a> (GPL-3.0), configured in <a href="./config.yml">config.yml</a>.</sub>
 
 ## ⏱️ WakaTime Coding Activity
 

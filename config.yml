@@ -1,0 +1,64 @@
+# Galaxy Profile configuration for khanblair/khanblair
+# See config.example.yml for the full reference with comments.
+
+username: khanblair
+
+profile:
+  name: "Blair Khan"
+  tagline: "Full-Stack Developer building scalable apps and systems across web and mobile"
+  location: "Kampala, Uganda"
+  bio: |
+    Building innovative solutions with code — I create scalable apps and
+    systems across web and mobile.
+
+social:
+  website: "https://khanblair.github.io/portfolio/"
+
+# Focus areas — derived from actual language/library usage in the WakaTime
+# stats already on this profile (TypeScript, Python, Rust, Kotlin, React,
+# Django). Edit freely.
+galaxy_arms:
+  - name: "Frontend & Mobile"
+    color: "dendrite_violet"
+    items:
+      - "TypeScript"
+      - "React"
+      - "React Native"
+  - name: "AI & Backend"
+    color: "synapse_cyan"
+    items:
+      - "Python"
+      - "Node.js"
+      - "Django"
+  - name: "Systems & DevOps"
+    color: "axon_amber"
+    items:
+      - "Rust"
+      - "Kotlin"
+      - "GitHub Actions"
+
+# Featured projects — real public repos under khanblair. Swap these for
+# whatever you want to highlight.
+projects:
+  - repo: "khanblair/mission-agent"
+    arm: 1
+    description: "AI-native spacecraft mission design platform — natural language in, orbital mechanics out. Built on NASA GMAT."
+  - repo: "khanblair/swahili-learn"
+    arm: 0
+    description: "Fully offline Swahili language learning mobile app — Duolingo-style, built with React Native + Expo."
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
