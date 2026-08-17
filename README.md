@@ -159,42 +159,38 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 ## 📈 Extra WakaTime Insights
 
 <!--START_SECTION:waka-extra-->
-![🔥 Current Streak](https://img.shields.io/badge/%F0%9F%94%A5%20Current%20Streak-21%20days-orange?style=flat)
+![🔥 Current Streak](https://img.shields.io/badge/%F0%9F%94%A5%20Current%20Streak-23%20days-orange?style=flat)
 
-![🏆 WakaTime Global Rank](https://img.shields.io/badge/%F0%9F%8F%86%20WakaTime%20Global%20Rank-%23348-yellow?style=flat)
-
-🎯 **Active Goals** 
-
-⏳ **Code 8 hrs per day** — pending (100% of daily target)
+![🏆 WakaTime Global Rank](https://img.shields.io/badge/%F0%9F%8F%86%20WakaTime%20Global%20Rank-%23447-yellow?style=flat)
 
 🗂️ **My Coding Categories (Last 7 Days)** 
 
 ```text
-AI Coding                43 hrs 16 mins       ██████████████████░░░░░░░   70.40 % 
-Browsing                 12 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-Coding                   4 hrs 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Code Reviewing           1 hr 20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Writing Tests            3 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+AI Coding                41 hrs 29 mins       █████████████████░░░░░░░░   66.44 % 
+Browsing                 15 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+Coding                   3 hrs 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+Code Reviewing           1 hr 20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 Writing Docs             3 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Writing Tests            3 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 📚 **Libraries & Dependencies (Last 7 Days)** 
 
 ```text
-react                    10 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-lucide-react             5 hrs 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-django                   5 hrs 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-apps                     4 hrs 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-button                   4 hrs 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-decimal                  4 hrs 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-rest_framework           3 hrs 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-uuid                     2 hrs 42 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+react                    10 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+lucide-react             5 hrs 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+django                   5 hrs 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+apps                     4 hrs 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+button                   4 hrs 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+decimal                  4 hrs 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+rest_framework           3 hrs 21 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+uuid                     2 hrs 42 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 
 💻 **Machines (Last 7 Days)** 
 
 ```text
-Kolaborates-MacBook-Air. 61 hrs 28 mins       █████████████████████████   100.00 % 
+Kolaborates-MacBook-Air. 62 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 <!--END_SECTION:waka-extra-->
