@@ -158,24 +158,37 @@ Kotlin                   2 repos             ░░░░░░░░░░░�
 <!--START_SECTION:waka-extra-->
 ![🔥 Current Streak](https://img.shields.io/badge/%F0%9F%94%A5%20Current%20Streak-27%20days-orange?style=flat)
 
-![🏆 WakaTime Global Rank](https://img.shields.io/badge/%F0%9F%8F%86%20WakaTime%20Global%20Rank-%23346-yellow?style=flat)
+![🏆 WakaTime Global Rank](https://img.shields.io/badge/%F0%9F%8F%86%20WakaTime%20Global%20Rank-%23359-yellow?style=flat)
 
 🗂️ **My Coding Categories (Last 7 Days)** 
 
 ```text
-AI Coding                40 hrs 47 mins       ████████████████░░░░░░░░░   63.78 % 
-Browsing                 16 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
-Coding                   5 hrs 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Code Reviewing           1 hr 9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Writing Docs             4 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Writing Tests            0 secs               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+AI Coding                34 hrs 10 mins       ███████████████░░░░░░░░░░   59.52 % 
+Browsing                 16 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+Coding                   5 hrs 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Code Reviewing           1 hr 40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Writing Docs             10 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Writing Tests            0 secs               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+```
+
+📚 **Libraries & Dependencies (Last 7 Days)** 
+
+```text
+react                    10 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+lucide-react             7 hrs 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+button                   5 hrs 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+auth                     3 hrs 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+useSyncManager           2 hrs 48 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+db                       2 hrs 43 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+navigation               2 hrs 42 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+vitest                   2 hrs 32 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 💻 **Machines (Last 7 Days)** 
 
 ```text
-Kolaborates-MacBook-Air. 63 hrs 52 mins       █████████████████████████   99.55 % 
-Mac                      17 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Kolaborates-MacBook-Air. 54 hrs 20 mins       ████████████████████████░   94.62 % 
+Mac                      3 hrs 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 ```
 
 <!--END_SECTION:waka-extra-->
