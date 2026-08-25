@@ -156,7 +156,7 @@ Kotlin                   2 repos             ░░░░░░░░░░░�
 ## 📈 Extra WakaTime Insights
 
 <!--START_SECTION:waka-extra-->
-![🔥 Current Streak](https://img.shields.io/badge/%F0%9F%94%A5%20Current%20Streak-29%20days-orange?style=flat)
+![🔥 Current Streak](https://img.shields.io/badge/%F0%9F%94%A5%20Current%20Streak-30%20days-orange?style=flat)
 
 🗂️ **My Coding Categories (Last 7 Days)** 
 
