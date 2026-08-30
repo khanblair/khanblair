@@ -51,11 +51,11 @@ Building innovative solutions with code — I create scalable apps and systems a
 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
-> 🏆 1,755 Contributions in the Year 2026
+> 🏆 1,757 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 108 Public Repositories 
+> 📜 110 Public Repositories 
  > 
 > 🔑 27 Private Repositories 
  > 
@@ -86,53 +86,53 @@ Sunday                   427 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-TypeScript               36 hrs 49 mins      ████████████████░░░░░░░░░   65.63 % 
-Other                    8 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
-Python                   5 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Markdown                 1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-CSV                      45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+TypeScript               39 hrs 15 mins      ███████████████░░░░░░░░░░   60.66 % 
+Other                    10 hrs 39 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Python                   5 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Markdown                 2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+JSON                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 🔥 Editors: 
-Chrome                   33 hrs 3 mins       ███████████████░░░░░░░░░░   58.92 % 
-Claude Code              18 hrs 46 mins      ████████░░░░░░░░░░░░░░░░░   33.45 % 
-Discord                  1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Kaku                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-VS Code                  1 hr 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Chrome                   35 hrs 43 mins      ██████████████░░░░░░░░░░░   55.20 % 
+Claude Code              23 hrs 43 mins      █████████░░░░░░░░░░░░░░░░   36.65 % 
+Kaku                     1 hr 14 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Discord                  1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+VS Code                  1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🐱‍💻 Projects: 
-kolaborate-monorepo      16 hrs 40 mins      ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-soundwave                8 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-NUNUFUND_ShopPOS         5 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-browser-use              2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-NUNUFUND_FRONTEND-V_2    2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+kolaborate-monorepo      16 hrs 45 mins      ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+soundwave                8 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+NUNUFUND_ShopPOS         5 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+metamcp                  3 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+SIM-Jacker               2 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 💻 Operating System: 
-Mac                      56 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      64 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 2 mins (51.75%)
+⏱ AI Coding Time: 34 hrs 4 mins (52.64%)
 
-✍️ 17,450 lines written by AI, 167 lines written by hand (99.05% AI-written)
+✍️ 18,123 lines written by AI, 172 lines written by hand (99.06% AI-written)
 
-🔤 15,899,663 Input Tokens, 3,334,824 Output Tokens
+🔤 18,186,844 Input Tokens, 3,798,565 Output Tokens
 
-💵 $378.98 Estimated AI Cost This Week
+💵 $442.02 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 511 AI Prompts
+🧠 46 AI Sessions, 610 AI Prompts
 
-Sonnet                   19,200 lines        █████████████████████████   98.23 % 
-Hermes                   203 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-Opus                     143 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Sonnet                   19,899 lines        █████████████████████████   98.29 % 
+Hermes                   203 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Opus                     143 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.05% of written lines came from AI
-📚 Verbose Prompter — average 1,766 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 3.48% of changed lines were hand-edited
+🤖 AI-Driven — 99.06% of written lines came from AI
+📚 Verbose Prompter — average 1,613 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 3.39% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -152,7 +152,7 @@ Kotlin                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/khanblair/khanblair/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 06:37:41 UTC
+ Last Updated on 30/08/2026 04:50:33 UTC
 <!--END_SECTION:waka-->
 
 ## 📈 Extra WakaTime Insights
