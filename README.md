@@ -39,9 +39,9 @@ Building innovative solutions with code — I create scalable apps and systems a
 ## ⏱️ WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-600%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-512%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-513%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -86,54 +86,54 @@ Sunday                   442 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-TypeScript               27 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   32.86 % 
-Python                   15 hrs 41 mins      █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
-Other                    14 hrs 53 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-Markdown                 7 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-HTML                     5 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+TypeScript               25 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   30.80 % 
+Python                   15 hrs 45 mins      █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+Other                    14 hrs              ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Markdown                 12 hrs 20 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+HTML                     5 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
 
 🔥 Editors: 
-Claude Code              50 hrs 49 mins      ███████████████░░░░░░░░░░   60.56 % 
-Chrome                   24 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   29.67 % 
-Hermes                   2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-VS Code                  2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Discord                  1 hr 32 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Claude Code              46 hrs 13 mins      ██████████████░░░░░░░░░░░   56.54 % 
+Chrome                   27 hrs 40 mins      ████████░░░░░░░░░░░░░░░░░   33.84 % 
+Hermes                   2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+VS Code                  1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Discord                  1 hr 33 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 🐱‍💻 Projects: 
-tapestry                 15 hrs 35 mins      █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-kolaborate-monorepo      14 hrs 50 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-grow-monorepo            8 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-NUNUFUND_FRONTEND-V_2    5 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-metamcp                  4 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+kolaborate-monorepo      16 hrs 10 mins      █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+tapestry                 15 hrs 35 mins      █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+grow-monorepo            8 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+NUNUFUND_FRONTEND-V_2    5 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+OpenBrowser              4 hrs 8 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 💻 Operating System: 
-Mac                      83 hrs 55 mins      █████████████████████████   100.00 % 
+Mac                      81 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 hrs 14 mins (69.39%)
+⏱ AI Coding Time: 53 hrs 55 mins (65.96%)
 
-✍️ 51,443 lines written by AI, 253 lines written by hand (99.51% AI-written)
+✍️ 49,759 lines written by AI, 250 lines written by hand (99.5% AI-written)
 
-🔤 41,127,238 Input Tokens, 9,303,892 Output Tokens
+🔤 36,721,862 Input Tokens, 8,327,482 Output Tokens
 
-💵 $1163.10 Estimated AI Cost This Week
+💵 $997.42 Estimated AI Cost This Week
 
-🧠 80 AI Sessions, 1124 AI Prompts
+🧠 70 AI Sessions, 987 AI Prompts
 
-Sonnet                   53,064 lines        ████████████████████████░   97.69 % 
-Hermes                   1,248 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Sonnet                   51,380 lines        ████████████████████████░   97.62 % 
+Hermes                   1,248 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 Claude                   5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.51% of written lines came from AI
-📚 Verbose Prompter — average 2,445 characters per prompt
+🤖 AI-Driven — 99.5% of written lines came from AI
+📚 Verbose Prompter — average 2,682 characters per prompt
 🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 0.66% of changed lines were hand-edited
+🚀 High AI Trust — 0.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -153,7 +153,7 @@ Kotlin                   2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/khanblair/khanblair/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 03:55:21 UTC
+ Last Updated on 06/09/2026 03:59:51 UTC
 <!--END_SECTION:waka-->
 
 ## 📈 Extra WakaTime Insights
