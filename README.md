@@ -86,42 +86,42 @@ Sunday                   451 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-TypeScript               32 hrs 1 min        ███████████░░░░░░░░░░░░░░   42.63 % 
-Markdown                 13 hrs 16 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Other                    13 hrs 3 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Python                   7 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-HTML                     3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+TypeScript               37 hrs 39 mins      █████████████░░░░░░░░░░░░   50.49 % 
+Other                    12 hrs 38 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Markdown                 7 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Python                   7 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+HTML                     3 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 🔥 Editors: 
-Claude Code              37 hrs 32 mins      ████████████░░░░░░░░░░░░░   49.99 % 
-Chrome                   34 hrs 2 mins       ███████████░░░░░░░░░░░░░░   45.33 % 
-Discord                  56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-VS Code                  42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Terminal                 41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Claude Code              37 hrs 9 mins       ████████████░░░░░░░░░░░░░   49.82 % 
+Chrome                   34 hrs 30 mins      ████████████░░░░░░░░░░░░░   46.26 % 
+Discord                  53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+VS Code                  42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Hermes                   38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🐱‍💻 Projects: 
-kolaborate-monorepo      26 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   35.02 % 
-tapestry                 6 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-soundwave                5 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-affine                   3 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-NUNUFUND_ShopPOS         3 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+kolaborate-monorepo      30 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   41.24 % 
+tapestry                 6 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+soundwave                5 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+affine                   3 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+NUNUFUND_ShopPOS         3 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 
 💻 Operating System: 
-Mac                      75 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      74 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 hrs 6 mins (58.74%)
+⏱ AI Coding Time: 43 hrs 42 mins (58.6%)
 
 ✍️ 28,280 lines written by AI, 89 lines written by hand (99.69% AI-written)
 
-🔤 28,275,553 Input Tokens, 7,065,492 Output Tokens
+🔤 27,697,491 Input Tokens, 6,878,841 Output Tokens
 
-💵 $872.97 Estimated AI Cost This Week
+💵 $862.42 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 820 AI Prompts
+🧠 49 AI Sessions, 757 AI Prompts
 
 Sonnet                   31,455 lines        ████████████████████████░   96.66 % 
 Hermes                   789 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
@@ -131,8 +131,8 @@ Deepseek                 0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.69% of written lines came from AI
-📚 Verbose Prompter — average 1,966 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
+📚 Verbose Prompter — average 2,114 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
 🚀 High AI Trust — 0.35% of changed lines were hand-edited
 ```
 
@@ -153,7 +153,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/khanblair/khanblair/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 04:05:32 UTC
+ Last Updated on 13/09/2026 04:25:02 UTC
 <!--END_SECTION:waka-->
 
 ## 📈 Extra WakaTime Insights
