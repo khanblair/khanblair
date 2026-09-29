@@ -162,31 +162,31 @@ Swift                    1 repo              ░░░░░░░░░░░�
 🗂️ **My Coding Categories (Last 7 Days)** 
 
 ```text
-AI Coding                61 hrs 17 mins       ████████████████░░░░░░░░░   62.98 % 
-Browsing                 18 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-Coding                   10 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Code Reviewing           6 hrs 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-Writing Tests            30 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-Writing Docs             17 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+AI Coding                61 hrs 8 mins        ███████████████░░░░░░░░░░   60.75 % 
+Browsing                 20 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+Coding                   11 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Code Reviewing           6 hrs 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Writing Tests            36 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Writing Docs             17 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 ```
 
 📚 **Libraries & Dependencies (Last 7 Days)** 
 
 ```text
-react                    8 hrs 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-lucide-react             5 hrs 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-context                  5 hrs 22 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-button                   4 hrs 46 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-vitest                   4 hrs 37 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-github.com/khanblair/mar 4 hrs 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-api                      3 hrs 58 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-time                     3 hrs 35 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+react                    8 hrs 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+context                  7 hrs 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+lucide-react             6 hrs 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+github.com/khanblair/mar 5 hrs 43 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+time                     5 hrs 14 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+vitest                   5 hrs 7 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+button                   4 hrs 51 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+api                      4 hrs 40 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 ```
 
 💻 **Machines (Last 7 Days)** 
 
 ```text
-Kolaborates-MacBook-Air. 97 hrs 18 mins       █████████████████████████   100.00 % 
+Kolaborates-MacBook-Air. 100 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 <!--END_SECTION:waka-extra-->
