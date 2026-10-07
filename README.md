@@ -155,38 +155,38 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ## 📈 Extra WakaTime Insights
 
 <!--START_SECTION:waka-extra-->
-![🔥 Current Streak](https://img.shields.io/badge/%F0%9F%94%A5%20Current%20Streak-61%2B%20days-orange?style=flat)
+![🔥 Current Streak](https://img.shields.io/badge/%F0%9F%94%A5%20Current%20Streak-60%20days-orange?style=flat)
 
-![🏆 WakaTime Global Rank](https://img.shields.io/badge/%F0%9F%8F%86%20WakaTime%20Global%20Rank-%23781-yellow?style=flat)
+![🏆 WakaTime Global Rank](https://img.shields.io/badge/%F0%9F%8F%86%20WakaTime%20Global%20Rank-%231029-yellow?style=flat)
 
 🗂️ **My Coding Categories (Last 7 Days)** 
 
 ```text
-AI Coding                19 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   35.78 % 
-Browsing                 13 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.17 % 
-Coding                   11 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Code Reviewing           10 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Writing Docs             9 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Writing Tests            3 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+AI Coding                19 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   36.64 % 
+Browsing                 12 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+Coding                   11 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Code Reviewing           8 hrs 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Writing Docs             19 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Writing Tests            3 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 📚 **Libraries & Dependencies (Last 7 Days)** 
 
 ```text
-errors                   4 hrs 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-context                  3 hrs 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-time                     3 hrs 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-strings                  3 hrs 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-github.com/khanblair/mar 2 hrs 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-github.com/khanblair/mar 1 hr 43 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-path/filepath            1 hr 38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-encoding/json            1 hr 37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+context                  2 hrs 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+errors                   2 hrs 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+time                     2 hrs 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+strings                  1 hr 28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+react                    1 hr 25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+slices                   1 hr 17 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+django                   1 hr 12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+net/http                 1 hr 12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 
 💻 **Machines (Last 7 Days)** 
 
 ```text
-Kolaborates-MacBook-Air. 55 hrs 8 mins        █████████████████████████   100.00 % 
+Kolaborates-MacBook-Air. 52 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 <!--END_SECTION:waka-extra-->
