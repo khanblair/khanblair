@@ -159,38 +159,38 @@ Swift                    1 repo              ░░░░░░░░░░░�
 ## 📈 Extra WakaTime Insights
 
 <!--START_SECTION:waka-extra-->
-![🔥 Current Streak](https://img.shields.io/badge/%F0%9F%94%A5%20Current%20Streak-61%2B%20days-orange?style=flat)
+![🔥 Current Streak](https://img.shields.io/badge/%F0%9F%94%A5%20Current%20Streak-60%20days-orange?style=flat)
 
-![🏆 WakaTime Global Rank](https://img.shields.io/badge/%F0%9F%8F%86%20WakaTime%20Global%20Rank-%23189-yellow?style=flat)
+![🏆 WakaTime Global Rank](https://img.shields.io/badge/%F0%9F%8F%86%20WakaTime%20Global%20Rank-%23201-yellow?style=flat)
 
 🗂️ **My Coding Categories (Last 7 Days)** 
 
 ```text
-AI Coding                40 hrs 42 mins       ██████████████░░░░░░░░░░░   54.56 % 
-Browsing                 13 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Coding                   11 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Code Reviewing           8 hrs 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Writing Docs             11 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Writing Tests            4 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+AI Coding                50 hrs 19 mins       ██████████████░░░░░░░░░░░   57.95 % 
+Browsing                 15 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+Coding                   11 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Code Reviewing           8 hrs 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Writing Docs             12 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Writing Tests            4 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 📚 **Libraries & Dependencies (Last 7 Days)** 
 
 ```text
-server                   9 hrs 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-values                   8 hrs 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-dataModel                7 hrs 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-api                      4 hrs 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-validators               4 hrs 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-react                    3 hrs 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-react-native             2 hrs 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-identity                 2 hrs 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+server                   9 hrs 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+values                   8 hrs 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+dataModel                7 hrs 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+api                      4 hrs 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+validators               4 hrs 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+react                    3 hrs 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+react-native             2 hrs 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+identity                 2 hrs 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
 ```
 
 💻 **Machines (Last 7 Days)** 
 
 ```text
-Kolaborates-MacBook-Air. 74 hrs 36 mins       █████████████████████████   100.00 % 
+Kolaborates-MacBook-Air. 86 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 <!--END_SECTION:waka-extra-->
